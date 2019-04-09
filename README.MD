@@ -1,0 +1,1 @@
+**xjc -d /path/to/catalog -p package/name fileName.xsd**

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employee>
+    <id>1</id>
+    <name>str1234</name>
+    <address>
+        <addressLine1>str1234</addressLine1>
+        <addressLine2>str1234</addressLine2>
+        <country>str1234</country>
+        <state>str1234</state>
+        <zip>12</zip>
+    </address>
+    <assestsAllocated>str1234</assestsAllocated>
+</employee>
